@@ -1,3 +1,9 @@
+/*
+lcd: 
+d1 - scl
+d2 - sda
+*/
+
 #include <Arduino.h>
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
